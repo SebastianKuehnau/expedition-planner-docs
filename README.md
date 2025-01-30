@@ -1,3 +1,27 @@
+# Expedition Planner Docs
+
+## Install Guide
+
+1. Install hugo
+```console
+brew install hugo
+```
+
+2. Install postcss
+```console
+npm install postcss
+```
+
+3. build the page
+```console
+hugo
+```
+
+4. run the project
+```console
+hugo server -D [-p1415]
+```
+
 # Docsy Example
 
 [Docsy][] is a [Hugo theme module][] for technical documentation sites, providing easy
